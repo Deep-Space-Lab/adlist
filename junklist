@@ -1,0 +1,407 @@
+# Google AdWords, AdSense and Analytics
+ads.google.com
+partner.googleadservices.com
+pagead.googlesyndication.com
+pagead1.googlesyndication.com
+pagead2.googlesyndication.com
+pagead3.googlesyndication.com
+pagead*.googlesyndication.com
+ade.googlesyndication.com
+video-ad-stats.googlesyndication.com
+tpc.googlesyndication.com
+googlesyndication.com
+googleadservices.com
+googletagservices.com
+google-analytics.com
+ssl.google-analytics.com
+imageads.googleadservices.com
+imageads*.googleadservices.com
+adservices.google.com
+adservice.google.com
+adservice.google.com.br
+adservice.google.co.uk
+adservice.google.it
+adservice.google.*
+analytics.google.com
+apps5.oingo.com
+service.urchin.com
+ee-in-f95.1.e100.net
+prg03s02-in-f110.1e100.net
+prg03s02-in-f99.1e100.net
+googleadapis.l.google.com
+pagead-googlehosted.l.google.com
+#googlehosted.l.googleusercontent.com
+#redirector.gvt1.com  # might break functionality
+#geo3.ggpht.com  # this will break Google mapps images
+*.googleadservices.com
+*.googletagservices.com
+www.googleadservices.com
+www.googletagservices.com
+googletagmanager.com
+www.googletagmanager.com
+app-measurement.com
+
+# Google DoubleClick Ads
+doubleclick.net
+*.doubleclick.net
+ad.doubleclick.net
+ad-g.doubleclick.net
+ad-ace.doubleclick.net
+ad-emea.doubleclick.net
+pagead.l.doubleclick.net
+pagead46.l.doubleclick.net
+adclick.g.doubleclick.net
+pubads.g.doubleclick.net
+big.g.doubleclick.net
+securepubads.g.doubleclick.net
+googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
+cm.g.doubleclick.net
+bid.g.doubleclick.net
+stats.g.doubleclick.net
+partnerad.l.doubleclick.net
+0.fls.doubleclick.net
+ad.mo.doubleclick.net
+static.doubleclick.net
+ebay.doubleclick.net
+doubleclick.com
+doubleclick.de
+doubleclick.ne.jp
+doubleclick.*
+doublecklick.net
+*.doublecklick.net
+adclick.g.doublecklick.net
+gcdn.2mdn.net
+s0.2mdn.net
+s1.2mdn.net
+m.2mdn.net
+twx.2mdn.net
+static.2mdn.net
+*.2mdn.net
+2mdn.net
+s0-2mdn-net.l.google.com
+doubleclickbygoogle.com
+
+# Google AdMob Ads
+admob.com
+a.admob.com
+c.admob.com
+p.admob.com
+*.admob.com
+*.admob.xiaomi.com
+api.admob.xiaomi.com
+pixel.admobclick.com
+tracking.admobsphere.com
+media.admob.com
+analytics.admob.com
+admob.com.akadns.net
+admob.biz
+admob.co.kr
+admob.co.nz
+admob.co.uk
+admob.de
+admob.dk
+admob.es
+admob.fi
+admob.fr
+admob.gr
+admob.it
+admob.jp
+admob.kr
+admob.mobi
+admob.no
+admob.pt
+admob.sg
+admob.tk
+admob.tw
+admob.vn
+admob.*
+www.admob.com.akadns.net
+admob-creative.googleusercontent.com
+
+# YouTube Ads
+ads.youtube.com
+
+# AdWhirl (part of AdMob)
+met.adwhirl.com
+mob.adwhirl.com
+
+# AdClony
+adcolony.com
+
+# AppNexus Ads
+a.adk2x.com
+adnxs.com
+adplexmedia.adk2x.com
+adnxs.comadplexmedia.adk2x.com
+ams1-ib.adnxs.com
+lax1-ib.adnxs.com
+ib.adnxs.com
+m.adnxs.com
+adnexus.net
+cdn.adnxs.com
+vcdn.adnxs.com
+secure.adnxs.com
+secure-sin.adnxs.com
+acdn.adnxs.com
+*.adnxs.co
+
+# AOL Advertising
+adtechus.com
+adserver.adtechus.com
+aka-cnd-ns.adtechus.com
+ads.aol.co.uk
+ads.web.aol.com
+advertising.aol.com
+adserver.aol.fr
+
+# Adswizz Audio Ads
+adswizz.com
+*.adswizz.com
+delivery-cdn-cf.adswizz.com
+
+# AdLeads
+adleads.com
+
+# AdRoll
+adroll.com
+s.adroll.com
+
+# AdScore detection
+adsco.re
+
+# Adyen Payments
+#live.adyen.com # This wil break Alipay payments
+
+# Batmobi Ads
+batmobi.net
+batmobil.net
+www.batmobil.net
+api2.batmobil.net
+api5.batmobil.net
+www.batmobi.net
+api2.batmobi.net
+api5.batmobi.net
+sts.batmobi.net
+*.batmobi.net
+*.batmobil.net
+
+# TrafficJunky Advertising (MG Freesites Ltd.)
+trafficjunky.net
+media.trafficjunky.net
+ads.trafficjunky.net
+
+# ExoClick and ExoServe (EXOGROUP, Benjamin Fonzé)
+ads.exoclick.com
+ads.exosrv.com
+a.realsrv.com
+static.realsrv.com
+
+# Fastclick
+cdn.fastclick.net
+code.fastclick.net
+images.fastclick.net
+media.fastclick.net
+secure.fastclick.net
+sp.fastclick.net
+sync.fastclick.net
+fastclick.net
+*.fastclick.net
+
+
+# DeviantART Ads
+adcast.deviantart.com
+adimg.deviantart.net
+da-ads.com
+dapxl.com
+
+# Disqus Ads
+disqusads.com
+
+# Drawbridge Ads
+adsymptotic.com
+c.adsymptotic.com
+mf.adsymptotic.com
+ads-west.colo.adsymptotic.com
+ads-west-colo.adsymptotic.com
+ads-east-aws.adsymptotic.com
+ads-east.colo.adsymptotic.com
+
+# Integral Ad Science
+anycast.pixel.adsafeprotected.com
+dt.adsafeprotected.com
+fw.adsafeprotected.com
+
+# Intercom Ads
+#intercom.io
+#*.intercom.io
+
+# Kantar Operations Adware
+core.insightexpressai.com
+secure.insightexpressai.com
+
+
+
+# LinkedIn Ads
+ads.linkedin.com
+dc.ads.linkedin.com
+px.ads.linkedin.com
+*.ads.linkedin.co
+
+
+# Mojiva Ads (part of PubMatic now)
+mojiva.com
+*.mojiva.com
+*.ads.mojiva.com
+#.ads*.mojiva.com
+#img.ads*.mojiva.com
+
+# Yahoo Ads
+ads.yimg.com
+ads.yahoo.com
+ads.yap.yahoo.com
+adserver.yahoo.com
+global.adserver.yahoo.com
+na.ads.yahoo.com
+#gemini.yahoo.com
+
+# InMobi Ads
+r.edge.inmobicdn.net
+cf.cdn.inmobi.com
+i.w.inmobi.com
+r.w.inmobi.com
+c.w.inmobi.com
+w.inmobi.com
+*.w.inmobi.com
+ma.inmobi.com
+ifc.inmobi.com
+china.inmobi.com
+japan.inmobi.com
+adtracker.inmobi.com
+js.inmobi-jp.com
+*.inmobi.com
+
+# Unity Ads
+unityads.unity3d.com
+unityads.*
+
+# Facebook Ads
+atdmt.com
+*.atdmt.com
+ec.atdmt.com
+cdn.atdmt.com
+ad.atdmt.com
+c.atdmt.com
+aidps.atdmt.com
+db3aqu.atdmt.com
+
+# Amazon Ads
+amazon-adsystem.com
+s.amazon-adsystem.com
+c.amazon-adsystem.com
+*.amazon-adsystem.com
+aax.amazon-adsystem.com
+aax-us-west.amazon-adsystem.com
+mads.amazon.com
+
+# Taboola Ads
+cdn.taboola.com
+
+# Moat Ads and Analytics
+moatads.com
+js.moatads.com
+*.moatads.com
+moat.pxl.ace.advertising.com
+moatads.com.edgekey.net
+s.moatpixel.com
+z.moatads.com
+yt.moatads.com
+yts.moatads.com
+#*.s.moatpixel.com
+#*.z.moatpixel.com
+wildcard.moatads.com.edgekey.net
+moatpixel.com
+
+# AppAds
+appads.com
+*.appads.com
+cdn.appads.com
+jupiter.appads.com
+jupiter*.appads.com
+neptune.appads.com
+neptune*.appads.com
+saturn.appads.com
+saturn*.appads.com
+req.appads.com
+req*.appads.com
+
+# Ad Infuse
+adinfuse.com
+*.adinfuse.com
+go.adinfuse.com
+ad1.adinfuse.com
+ad2.adinfuse.com
+sky.adinfuse.com
+sky-connect.adinfuse.com
+uk-go.adinfuse.com
+uk-ad2.adinfuse.com
+orangeuk-mc.adinfuse.com
+orange-fr.adinfuse.com
+intouch.adinfuse.com
+funnel0.adinfuse.com
+
+# AdMarvel
+admarvel.com
+ads.admarvel.com
+admarvel.s3.amazonaws.com
+#static.admarvel.top
+a.admarvel.top
+admarvel.top
+
+# Adform
+adform.com
+adform.net
+track.adform.net
+
+# Adfonic
+adfonic.net
+as.adfonic.net
+
+# AdTiming
+adtiming.com
+sdk.adtiming.com
+
+# Smart Adserver
+smartadserver.com
+*.smartadserver.com
+
+# Vdopia Video Ads
+serve.vdopia.com
+cdn.vdopia.com
+
+# Zynga Games Ads
+r.ads.zynga.com
+zynga2-a.akamaihd.net
+
+# List of more ads
+i.bestcontentnetwork.top
+a.bestcontentnetwork.top
+smpop.icfcdn.com
+etahub.com
+clksite.com
+sync.rhythmxchange.com
+m.goadservices.com
+ut.performax.cz
+
+# Other ads/tracking
+appliedsemantics.com
+tracking.tidalhifi.com
+bigmobileads.com
+54646.co
+ads.bizhut.com
+api.zwizzarmyknife.com
+tags.bkrtx.com
+idsync-ext.rlcdn.com
+iad-usadmm.dotomi.com
+logger.zcoup.com
+api.zcoup.com
